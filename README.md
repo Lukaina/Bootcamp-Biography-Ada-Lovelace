@@ -1,11 +1,25 @@
-# Biografía Ada Lovelace📜👩‍💻
+# Ada Lovelace Biography 📜👩‍💻
 
-Este fue mi primer ejercicio en programación, para el Bootcamp de PionerasDev & Globant 2020. Sin tener ningún conocimiento previo, elaboré esta biografía de _Ada Lovelace_ (Conocida como la primera programadora de la historía).
+This was my first programming exercise, for the PionerasDev & Globant 2020 Bootcamp. Without having any previous knowledge, I elaborated this biography of _Ada Lovelace_ (known as the first female programmer in history).
 
-file:///C:/Users/usuario/Downloads/Biograf%C3%ADa.gif 
+<details>
+<summary>Preview 👀</summary>    
+  <img width="959" alt="Biography Ada Lovelace" src="https://user-images.githubusercontent.com/60724393/128085264-93d4d72b-dfb2-43ff-b9ab-af0fc717e55b.png">
+</details>
 
-## Herramientas🧰
+[🌸 _Live_](https://lukaina.github.io/Exercises-Bootcamp/Ejercicio%20Clase%201,%20Biograf%C3%ADa/bio/)
+
+## Tech stack 🧰
 ![imagen](https://user-images.githubusercontent.com/60724393/91269372-a0cc0280-e73c-11ea-9bb0-d066347a49a8.png)}
 
+## Thanks to 🙏
+
+- [Pioneras Developers](https://github.com/pionerasdev)
+- [Globant](https://github.com/globant)
+- My mentor [Andrea Córdoba](https://github.com/andre-code)
+- All our mentors and teachers
+- Friendships
+
+_Made with ❤_
 
 
